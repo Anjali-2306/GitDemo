@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-15T00:20:25 IST" name="Default suite" finished-at="2022-01-15T00:20:25 IST" duration-ms="119">
+    <groups>
+    </groups>
+    <test started-at="2022-01-15T00:20:25 IST" name="Default test" finished-at="2022-01-15T00:20:25 IST" duration-ms="119">
+      <class name="QAClickAcademy.Mavenjava.RestApitest">
+        <test-method signature="DevOPSTest()[pri:0, instance:QAClickAcademy.Mavenjava.RestApitest@32b260fa]" started-at="2022-01-15T00:20:25 IST" name="DevOPSTest" finished-at="2022-01-15T00:20:25 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DevOPSTest -->
+        <test-method signature="JiraAutomation()[pri:0, instance:QAClickAcademy.Mavenjava.RestApitest@32b260fa]" started-at="2022-01-15T00:20:25 IST" name="JiraAutomation" finished-at="2022-01-15T00:20:25 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JiraAutomation -->
+      </class> <!-- QAClickAcademy.Mavenjava.RestApitest -->
+      <class name="QAClickAcademy.Mavenjava.Seleniumtest">
+        <test-method signature="BrowserAutomation()[pri:0, instance:QAClickAcademy.Mavenjava.Seleniumtest@f736069]" started-at="2022-01-15T00:20:25 IST" name="BrowserAutomation" finished-at="2022-01-15T00:20:25 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method signature="elementui()[pri:0, instance:QAClickAcademy.Mavenjava.Seleniumtest@f736069]" started-at="2022-01-15T00:20:25 IST" name="elementui" finished-at="2022-01-15T00:20:25 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementui -->
+      </class> <!-- QAClickAcademy.Mavenjava.Seleniumtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
